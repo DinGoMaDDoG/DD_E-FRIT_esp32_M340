@@ -1,0 +1,21 @@
+# PlatformIO build output
+.pio/
+
+# VS Code: keep only the recommended-extensions list
+.vscode/*
+!.vscode/extensions.json
+esp32/.vscode/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Control Expert backup and temporary files
+*.bak
+
+# Documents that are not published (printouts, private notes)
+*.pdf
+DD-E-FRIT Report Skeleton.md

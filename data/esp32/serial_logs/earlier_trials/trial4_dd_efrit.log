@@ -1,0 +1,3610 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Send any key to start experiment...
+Starting!
+>Setpoint:75.00,RPM:0.00,PWM:3
+DATA,75.00,0.00,3,1.41,0.50,0.12
+Algorithm Time (us): 2521
+>Setpoint:75.00,RPM:0.00,PWM:7
+DATA,75.00,0.00,7,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:11
+DATA,75.00,0.00,11,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:15
+DATA,75.00,0.00,15,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:18
+DATA,75.00,0.00,18,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:22
+DATA,75.00,0.00,22,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:26
+DATA,75.00,0.00,26,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:30
+DATA,75.00,0.00,30,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:34
+DATA,75.00,0.00,34,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:37
+DATA,75.00,0.00,37,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:41
+DATA,75.00,0.00,41,1.41,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:45
+DATA,75.00,0.00,45,1.42,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:49
+DATA,75.00,0.00,49,1.43,0.50,0.12
+Algorithm Time (us): 724
+>Setpoint:75.00,RPM:0.00,PWM:52
+DATA,75.00,0.00,52,1.43,0.49,0.12
+Algorithm Time (us): 715
+>Setpoint:75.00,RPM:0.00,PWM:56
+DATA,75.00,0.00,56,1.45,0.48,0.12
+Algorithm Time (us): 715
+>Setpoint:75.00,RPM:0.00,PWM:59
+DATA,75.00,0.00,59,1.46,0.47,0.12
+Algorithm Time (us): 715
+>Setpoint:75.00,RPM:0.00,PWM:63
+DATA,75.00,0.00,63,1.46,0.47,0.12
+Algorithm Time (us): 711
+>Setpoint:75.00,RPM:0.00,PWM:66
+DATA,75.00,0.00,66,1.46,0.46,0.12
+Algorithm Time (us): 715
+>Setpoint:75.00,RPM:0.00,PWM:70
+DATA,75.00,0.00,70,1.46,0.46,0.12
+Algorithm Time (us): 711
+>Setpoint:75.00,RPM:0.00,PWM:73
+DATA,75.00,0.00,73,1.46,0.46,0.12
+Algorithm Time (us): 712
+>Setpoint:75.00,RPM:0.00,PWM:77
+DATA,75.00,0.00,77,1.45,0.46,0.12
+Algorithm Time (us): 700
+>Setpoint:75.00,RPM:0.00,PWM:80
+DATA,75.00,0.00,80,1.45,0.46,0.12
+Algorithm Time (us): 704
+>Setpoint:75.00,RPM:0.00,PWM:84
+DATA,75.00,0.00,84,1.44,0.46,0.12
+Algorithm Time (us): 700
+>Setpoint:75.00,RPM:0.00,PWM:87
+DATA,75.00,0.00,87,1.43,0.46,0.12
+Algorithm Time (us): 693
+>Setpoint:75.00,RPM:0.00,PWM:91
+DATA,75.00,0.00,91,1.42,0.46,0.12
+Algorithm Time (us): 700
+>Setpoint:75.00,RPM:0.00,PWM:94
+DATA,75.00,0.00,94,1.41,0.46,0.12
+Algorithm Time (us): 693
+>Setpoint:75.00,RPM:0.00,PWM:97
+DATA,75.00,0.00,97,1.40,0.46,0.11
+Algorithm Time (us): 693
+>Setpoint:75.00,RPM:0.00,PWM:101
+DATA,75.00,0.00,101,1.40,0.47,0.11
+Algorithm Time (us): 701
+>Setpoint:75.00,RPM:0.00,PWM:104
+DATA,75.00,0.00,104,1.39,0.47,0.11
+Algorithm Time (us): 693
+>Setpoint:75.00,RPM:0.00,PWM:108
+DATA,75.00,0.00,108,1.38,0.47,0.11
+Algorithm Time (us): 702
+>Setpoint:75.00,RPM:0.00,PWM:112
+DATA,75.00,0.00,112,1.36,0.48,0.11
+Algorithm Time (us): 706
+>Setpoint:75.00,RPM:0.00,PWM:115
+DATA,75.00,0.00,115,1.34,0.48,0.11
+Algorithm Time (us): 714
+>Setpoint:75.00,RPM:0.00,PWM:119
+DATA,75.00,0.00,119,1.32,0.48,0.10
+Algorithm Time (us): 719
+>Setpoint:75.00,RPM:0.00,PWM:122
+DATA,75.00,0.00,122,1.29,0.49,0.10
+Algorithm Time (us): 716
+>Setpoint:75.00,RPM:0.00,PWM:127
+DATA,75.00,0.00,127,1.24,0.54,0.09
+Algorithm Time (us): 726
+>Setpoint:75.00,RPM:0.00,PWM:131
+DATA,75.00,0.00,131,1.19,0.59,0.09
+Algorithm Time (us): 731
+>Setpoint:75.00,RPM:10.39,PWM:133
+DATA,75.00,10.39,133,1.16,0.82,0.08
+Algorithm Time (us): 764
+>Setpoint:75.00,RPM:31.17,PWM:133
+DATA,75.00,31.17,133,0.90,1.13,0.05
+Algorithm Time (us): 811
+>Setpoint:75.00,RPM:46.75,PWM:133
+DATA,75.00,46.75,133,0.82,1.25,0.05
+Algorithm Time (us): 611
+>Setpoint:75.00,RPM:54.55,PWM:134
+DATA,75.00,54.55,134,0.79,1.26,0.05
+Algorithm Time (us): 586
+>Setpoint:75.00,RPM:59.74,PWM:134
+DATA,75.00,59.74,134,0.79,1.26,0.05
+Algorithm Time (us): 586
+>Setpoint:75.00,RPM:64.94,PWM:133
+DATA,75.00,64.94,133,0.79,1.26,0.05
+Algorithm Time (us): 584
+>Setpoint:75.00,RPM:64.94,PWM:134
+DATA,75.00,64.94,134,0.79,1.26,0.05
+Algorithm Time (us): 585
+>Setpoint:75.00,RPM:67.53,PWM:133
+DATA,75.00,67.53,133,0.79,1.26,0.05
+Algorithm Time (us): 588
+>Setpoint:75.00,RPM:77.92,PWM:130
+DATA,75.00,77.92,130,0.77,1.06,0.04
+Algorithm Time (us): 615
+>Setpoint:75.00,RPM:70.13,PWM:131
+DATA,75.00,70.13,131,0.74,1.17,0.04
+Algorithm Time (us): 620
+>Setpoint:75.00,RPM:75.32,PWM:130
+DATA,75.00,75.32,130,0.80,1.37,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:70.13,PWM:131
+DATA,75.00,70.13,131,0.77,1.37,0.05
+Algorithm Time (us): 604
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.80,1.43,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:80.52,PWM:129
+DATA,75.00,80.52,129,0.70,0.83,0.03
+Algorithm Time (us): 613
+>Setpoint:75.00,RPM:80.52,PWM:128
+DATA,75.00,80.52,128,0.77,1.27,0.05
+Algorithm Time (us): 603
+>Setpoint:75.00,RPM:70.13,PWM:129
+DATA,75.00,70.13,129,0.71,1.12,0.04
+Algorithm Time (us): 614
+>Setpoint:75.00,RPM:70.13,PWM:130
+DATA,75.00,70.13,130,0.80,1.50,0.05
+Algorithm Time (us): 604
+>Setpoint:75.00,RPM:72.73,PWM:130
+DATA,75.00,72.73,130,0.80,1.50,0.05
+Algorithm Time (us): 612
+>Setpoint:75.00,RPM:70.13,PWM:131
+DATA,75.00,70.13,131,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:130
+DATA,75.00,75.32,130,0.80,1.37,0.05
+Algorithm Time (us): 603
+>Setpoint:75.00,RPM:70.13,PWM:132
+DATA,75.00,70.13,132,0.77,1.37,0.05
+Algorithm Time (us): 603
+>Setpoint:75.00,RPM:83.12,PWM:129
+DATA,75.00,83.12,129,0.66,0.70,0.03
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:77.92,PWM:130
+DATA,75.00,77.92,130,0.80,1.50,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:75.32,PWM:130
+DATA,75.00,75.32,130,0.80,1.50,0.05
+Algorithm Time (us): 602
+>Setpoint:75.00,RPM:75.32,PWM:130
+DATA,75.00,75.32,130,0.80,1.49,0.05
+Algorithm Time (us): 608
+>Setpoint:75.00,RPM:70.13,PWM:131
+DATA,75.00,70.13,131,0.77,1.37,0.05
+Algorithm Time (us): 614
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.80,1.43,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.80,1.44,0.05
+Algorithm Time (us): 601
+>Setpoint:75.00,RPM:75.32,PWM:131
+DATA,75.00,75.32,131,0.79,1.31,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:80.52,PWM:130
+DATA,75.00,80.52,130,0.70,0.93,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.77,1.38,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:77.92,PWM:130
+DATA,75.00,77.92,130,0.77,1.15,0.04
+Algorithm Time (us): 604
+>Setpoint:75.00,RPM:70.13,PWM:131
+DATA,75.00,70.13,131,0.72,1.18,0.04
+Algorithm Time (us): 605
+>Setpoint:75.00,RPM:70.13,PWM:132
+DATA,75.00,70.13,132,0.80,1.43,0.05
+Algorithm Time (us): 601
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.80,1.43,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.24,0.05
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.80,1.50,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.18,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:83.12,PWM:131
+DATA,75.00,83.12,131,0.68,0.90,0.04
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.80,1.50,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:83.12,PWM:130
+DATA,75.00,83.12,130,0.67,0.75,0.03
+Algorithm Time (us): 586
+>Setpoint:75.00,RPM:77.92,PWM:130
+DATA,75.00,77.92,130,0.80,1.50,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.77,1.37,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.80,1.44,0.05
+Algorithm Time (us): 601
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.77,1.14,0.04
+Algorithm Time (us): 602
+>Setpoint:75.00,RPM:72.73,PWM:131
+DATA,75.00,72.73,131,0.77,1.37,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.77,1.15,0.04
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:77.92,PWM:130
+DATA,75.00,77.92,130,0.80,1.43,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:70.13,PWM:132
+DATA,75.00,70.13,132,0.74,1.23,0.04
+Algorithm Time (us): 602
+>Setpoint:75.00,RPM:67.53,PWM:133
+DATA,75.00,67.53,133,0.80,1.43,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.77,1.12,0.04
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.77,1.37,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.78,1.19,0.04
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.77,1.37,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:70.13,PWM:133
+DATA,75.00,70.13,133,0.80,1.50,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.80,1.50,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.80,1.25,0.05
+Algorithm Time (us): 587
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.32,0.05
+Algorithm Time (us): 587
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.18,0.04
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:83.12,PWM:132
+DATA,75.00,83.12,132,0.67,0.75,0.03
+Algorithm Time (us): 587
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.76,1.34,0.04
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:70.13,PWM:135
+DATA,75.00,70.13,135,0.80,1.44,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.18,0.04
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:72.73,PWM:135
+DATA,75.00,72.73,135,0.80,1.37,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:80.52,PWM:133
+DATA,75.00,80.52,133,0.71,0.92,0.04
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.80,1.44,0.05
+Algorithm Time (us): 589
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:83.12,PWM:132
+DATA,75.00,83.12,132,0.67,0.75,0.03
+Algorithm Time (us): 588
+>Setpoint:75.00,RPM:80.52,PWM:131
+DATA,75.00,80.52,131,0.77,1.26,0.05
+Algorithm Time (us): 586
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.79,1.32,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:70.13,PWM:133
+DATA,75.00,70.13,133,0.74,1.23,0.04
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.80,1.43,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.18,0.04
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:83.12,PWM:131
+DATA,75.00,83.12,131,0.67,0.75,0.03
+Algorithm Time (us): 587
+>Setpoint:75.00,RPM:80.52,PWM:130
+DATA,75.00,80.52,130,0.77,1.26,0.05
+Algorithm Time (us): 586
+>Setpoint:75.00,RPM:70.13,PWM:132
+DATA,75.00,70.13,132,0.73,1.24,0.04
+Algorithm Time (us): 604
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.78,1.18,0.04
+Algorithm Time (us): 604
+>Setpoint:75.00,RPM:75.32,PWM:131
+DATA,75.00,75.32,131,0.80,1.50,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:75.32,PWM:131
+DATA,75.00,75.32,131,0.79,1.31,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:70.13,PWM:133
+DATA,75.00,70.13,133,0.77,1.37,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.77,1.37,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.73,0.87,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.44,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.19,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.77,1.31,0.05
+Algorithm Time (us): 602
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.43,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:83.12,PWM:132
+DATA,75.00,83.12,132,0.67,0.69,0.03
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.79,1.37,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.32,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.71,0.92,0.04
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.79,1.32,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.31,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.50,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.19,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.79,1.32,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:77.92,PWM:131
+DATA,75.00,77.92,131,0.79,1.32,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:131
+DATA,75.00,75.32,131,0.80,1.50,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.80,1.50,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.80,1.43,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.80,1.50,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.43,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.71,0.92,0.04
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.32,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.70,0.92,0.04
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.38,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.31,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.50,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:70.13,PWM:135
+DATA,75.00,70.13,135,0.80,1.44,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:80.52,PWM:133
+DATA,75.00,80.52,133,0.73,0.86,0.04
+Algorithm Time (us): 589
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.80,1.44,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.18,0.04
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.79,1.32,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.19,0.04
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.79,1.32,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.37,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.77,1.06,0.04
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:83.12,PWM:131
+DATA,75.00,83.12,131,0.67,0.69,0.03
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:70.13,PWM:133
+DATA,75.00,70.13,133,0.73,1.24,0.04
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.18,0.04
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.37,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.71,0.92,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.80,1.50,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.31,0.05
+Algorithm Time (us): 590
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.50,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.77,1.06,0.04
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:70.13,PWM:133
+DATA,75.00,70.13,133,0.74,1.23,0.04
+Algorithm Time (us): 601
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.77,1.06,0.04
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.79,1.32,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.37,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:80.52,PWM:131
+DATA,75.00,80.52,131,0.70,0.92,0.04
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.38,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.25,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:80.52,PWM:131
+DATA,75.00,80.52,131,0.70,0.92,0.04
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.77,1.38,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.79,1.31,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:67.53,PWM:134
+DATA,75.00,67.53,134,0.73,1.25,0.04
+Algorithm Time (us): 606
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.77,1.06,0.04
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:80.52,PWM:131
+DATA,75.00,80.52,131,0.77,1.20,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:132
+DATA,75.00,75.32,132,0.80,1.50,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:70.13,PWM:133
+DATA,75.00,70.13,133,0.77,1.37,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 598
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.44,0.05
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:83.12,PWM:131
+DATA,75.00,83.12,131,0.67,0.75,0.03
+Algorithm Time (us): 588
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.74,1.36,0.04
+Algorithm Time (us): 589
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.80,1.50,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.18,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.79,1.32,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.31,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.80,1.50,0.05
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.25,0.05
+Algorithm Time (us): 588
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 589
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.18,0.04
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.19,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.50,0.05
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:80.52,PWM:133
+DATA,75.00,80.52,133,0.72,0.83,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.71,0.92,0.04
+Algorithm Time (us): 586
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.38,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.37,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.77,1.06,0.04
+Algorithm Time (us): 594
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.19,0.04
+Algorithm Time (us): 596
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.77,1.31,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.32,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:72.73,PWM:134
+DATA,75.00,72.73,134,0.80,1.44,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.79,1.24,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.78,1.19,0.04
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:77.92,PWM:133
+DATA,75.00,77.92,133,0.79,1.32,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.74,1.17,0.04
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:75.32,PWM:134
+DATA,75.00,75.32,134,0.80,1.25,0.05
+Algorithm Time (us): 593
+>Setpoint:75.00,RPM:88.31,PWM:131
+DATA,75.00,88.31,131,0.64,0.60,0.03
+Algorithm Time (us): 580
+>Setpoint:75.00,RPM:80.52,PWM:131
+DATA,75.00,80.52,131,0.74,1.24,0.04
+Algorithm Time (us): 582
+>Setpoint:75.00,RPM:72.73,PWM:132
+DATA,75.00,72.73,132,0.77,1.38,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 604
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.43,0.05
+Algorithm Time (us): 606
+>Setpoint:75.00,RPM:80.52,PWM:132
+DATA,75.00,80.52,132,0.72,0.84,0.04
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.77,1.38,0.05
+Algorithm Time (us): 600
+>Setpoint:75.00,RPM:72.73,PWM:133
+DATA,75.00,72.73,133,0.80,1.37,0.05
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.77,1.06,0.04
+Algorithm Time (us): 599
+>Setpoint:75.00,RPM:70.13,PWM:134
+DATA,75.00,70.13,134,0.74,1.23,0.04
+Algorithm Time (us): 597
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.25,0.05
+Algorithm Time (us): 592
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.79,1.32,0.05
+Algorithm Time (us): 591
+>Setpoint:75.00,RPM:77.92,PWM:132
+DATA,75.00,77.92,132,0.78,1.19,0.04
+Algorithm Time (us): 595
+>Setpoint:75.00,RPM:75.32,PWM:133
+DATA,75.00,75.32,133,0.80,1.44,0.05
+Algorithm Time (us): 594
+>Setpoint:125.00,RPM:72.73,PWM:141
+DATA,125.00,72.73,141,0.80,1.43,0.05
+Algorithm Time (us): 599
+>Setpoint:125.00,RPM:77.92,PWM:143
+DATA,125.00,77.92,143,0.78,0.77,0.04
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:80.52,PWM:147
+DATA,125.00,80.52,147,0.78,0.88,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:80.52,PWM:150
+DATA,125.00,80.52,150,0.77,0.72,0.04
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:85.71,PWM:150
+DATA,125.00,85.71,150,0.68,0.43,0.04
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:93.51,PWM:150
+DATA,125.00,93.51,150,0.63,0.42,0.04
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:93.51,PWM:150
+DATA,125.00,93.51,150,0.62,0.44,0.04
+Algorithm Time (us): 712
+>Setpoint:125.00,RPM:90.91,PWM:151
+DATA,125.00,90.91,151,0.62,0.44,0.04
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:96.10,PWM:152
+DATA,125.00,96.10,152,0.62,0.44,0.04
+Algorithm Time (us): 713
+>Setpoint:125.00,RPM:98.70,PWM:152
+DATA,125.00,98.70,152,0.61,0.49,0.04
+Algorithm Time (us): 720
+>Setpoint:125.00,RPM:96.10,PWM:153
+DATA,125.00,96.10,153,0.61,0.49,0.04
+Algorithm Time (us): 704
+>Setpoint:125.00,RPM:98.70,PWM:154
+DATA,125.00,98.70,154,0.61,0.49,0.04
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:98.70,PWM:155
+DATA,125.00,98.70,155,0.61,0.54,0.04
+Algorithm Time (us): 703
+>Setpoint:125.00,RPM:109.09,PWM:154
+DATA,125.00,109.09,154,0.60,0.55,0.04
+Algorithm Time (us): 696
+>Setpoint:125.00,RPM:98.70,PWM:156
+DATA,125.00,98.70,156,0.57,0.54,0.03
+Algorithm Time (us): 696
+>Setpoint:125.00,RPM:103.90,PWM:156
+DATA,125.00,103.90,156,0.60,0.55,0.04
+Algorithm Time (us): 655
+>Setpoint:125.00,RPM:103.90,PWM:157
+DATA,125.00,103.90,157,0.57,0.54,0.03
+Algorithm Time (us): 612
+>Setpoint:125.00,RPM:106.49,PWM:158
+DATA,125.00,106.49,158,0.57,0.54,0.03
+Algorithm Time (us): 606
+>Setpoint:125.00,RPM:101.30,PWM:159
+DATA,125.00,101.30,159,0.56,0.54,0.03
+Algorithm Time (us): 605
+>Setpoint:125.00,RPM:103.90,PWM:160
+DATA,125.00,103.90,160,0.56,0.54,0.03
+Algorithm Time (us): 605
+>Setpoint:125.00,RPM:103.90,PWM:161
+DATA,125.00,103.90,161,0.56,0.55,0.03
+Algorithm Time (us): 605
+>Setpoint:125.00,RPM:103.90,PWM:162
+DATA,125.00,103.90,162,0.59,0.61,0.03
+Algorithm Time (us): 609
+>Setpoint:125.00,RPM:103.90,PWM:164
+DATA,125.00,103.90,164,0.59,0.66,0.04
+Algorithm Time (us): 614
+>Setpoint:125.00,RPM:119.48,PWM:162
+DATA,125.00,119.48,162,0.64,0.96,0.04
+Algorithm Time (us): 624
+>Setpoint:125.00,RPM:109.09,PWM:165
+DATA,125.00,109.09,165,0.63,0.98,0.04
+Algorithm Time (us): 625
+>Setpoint:125.00,RPM:109.09,PWM:166
+DATA,125.00,109.09,166,0.64,0.94,0.04
+Algorithm Time (us): 613
+>Setpoint:125.00,RPM:109.09,PWM:168
+DATA,125.00,109.09,168,0.65,0.98,0.04
+Algorithm Time (us): 612
+>Setpoint:125.00,RPM:114.29,PWM:168
+DATA,125.00,114.29,168,0.71,1.16,0.04
+Algorithm Time (us): 634
+>Setpoint:125.00,RPM:116.88,PWM:169
+DATA,125.00,116.88,169,0.77,1.37,0.05
+Algorithm Time (us): 638
+>Setpoint:125.00,RPM:111.69,PWM:171
+DATA,125.00,111.69,171,0.78,1.44,0.05
+Algorithm Time (us): 658
+>Setpoint:125.00,RPM:119.48,PWM:171
+DATA,125.00,119.48,171,0.79,1.45,0.05
+Algorithm Time (us): 671
+>Setpoint:125.00,RPM:116.88,PWM:172
+DATA,125.00,116.88,172,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:116.88,PWM:173
+DATA,125.00,116.88,173,0.80,1.50,0.05
+Algorithm Time (us): 710
+>Setpoint:125.00,RPM:116.88,PWM:175
+DATA,125.00,116.88,175,0.80,1.50,0.05
+Algorithm Time (us): 718
+>Setpoint:125.00,RPM:119.48,PWM:175
+DATA,125.00,119.48,175,0.80,1.50,0.05
+Algorithm Time (us): 715
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 705
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 687
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 738
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 738
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 711
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 717
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 734
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 691
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:176
+DATA,125.00,124.68,176,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:122.08,PWM:177
+DATA,125.00,122.08,177,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:176
+DATA,125.00,124.68,176,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:122.08,PWM:177
+DATA,125.00,122.08,177,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:127.27,PWM:176
+DATA,125.00,127.27,176,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 737
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:129.87,PWM:174
+DATA,125.00,129.87,174,0.77,1.33,0.05
+Algorithm Time (us): 737
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:132.47,PWM:174
+DATA,125.00,132.47,174,0.72,1.13,0.04
+Algorithm Time (us): 749
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 710
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:129.87,PWM:174
+DATA,125.00,129.87,174,0.77,1.33,0.05
+Algorithm Time (us): 737
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 702
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 715
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 711
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 689
+>Setpoint:125.00,RPM:129.87,PWM:175
+DATA,125.00,129.87,175,0.77,1.27,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 761
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.73,1.17,0.04
+Algorithm Time (us): 783
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 746
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 687
+>Setpoint:125.00,RPM:129.87,PWM:174
+DATA,125.00,129.87,174,0.77,1.27,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.43,0.05
+Algorithm Time (us): 753
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 710
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 717
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 718
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 691
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 687
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 713
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 703
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 690
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 687
+>Setpoint:125.00,RPM:124.68,PWM:176
+DATA,125.00,124.68,176,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:124.68,PWM:176
+DATA,125.00,124.68,176,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:129.87,PWM:174
+DATA,125.00,129.87,174,0.73,1.17,0.04
+Algorithm Time (us): 759
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.43,0.05
+Algorithm Time (us): 766
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 738
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:129.87,PWM:174
+DATA,125.00,129.87,174,0.77,1.27,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.43,0.05
+Algorithm Time (us): 764
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 738
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 715
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.73,1.17,0.04
+Algorithm Time (us): 762
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.79,1.46,0.05
+Algorithm Time (us): 751
+>Setpoint:125.00,RPM:132.47,PWM:171
+DATA,125.00,132.47,171,0.74,1.31,0.04
+Algorithm Time (us): 740
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 734
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.78,1.35,0.05
+Algorithm Time (us): 750
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:119.48,PWM:174
+DATA,125.00,119.48,174,0.80,1.50,0.05
+Algorithm Time (us): 706
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 697
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 707
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 709
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:122.08,PWM:176
+DATA,125.00,122.08,176,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 703
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:127.27,PWM:175
+DATA,125.00,127.27,175,0.80,1.50,0.05
+Algorithm Time (us): 710
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 707
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 709
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 715
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 713
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 737
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 719
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 709
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 719
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 711
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 734
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 715
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 707
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.73,1.17,0.04
+Algorithm Time (us): 759
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.43,0.05
+Algorithm Time (us): 762
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.77,1.27,0.05
+Algorithm Time (us): 753
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 742
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 707
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 687
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 687
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 709
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:125.00,RPM:132.47,PWM:172
+DATA,125.00,132.47,172,0.71,1.18,0.04
+Algorithm Time (us): 765
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:125.00,RPM:129.87,PWM:171
+DATA,125.00,129.87,171,0.77,1.33,0.05
+Algorithm Time (us): 734
+>Setpoint:125.00,RPM:124.68,PWM:172
+DATA,125.00,124.68,172,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 703
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 700
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.73,1.17,0.04
+Algorithm Time (us): 759
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 746
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:132.47,PWM:172
+DATA,125.00,132.47,172,0.72,1.13,0.04
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 719
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 717
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 705
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:125.00,RPM:132.47,PWM:172
+DATA,125.00,132.47,172,0.71,1.18,0.04
+Algorithm Time (us): 769
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 753
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 719
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 692
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 710
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 736
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 696
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 698
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:127.27,PWM:174
+DATA,125.00,127.27,174,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:129.87,PWM:173
+DATA,125.00,129.87,173,0.77,1.33,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:129.87,PWM:172
+DATA,125.00,129.87,172,0.77,1.33,0.05
+Algorithm Time (us): 741
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.43,0.05
+Algorithm Time (us): 746
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.78,1.36,0.05
+Algorithm Time (us): 762
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 717
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 718
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 704
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 688
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 713
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 737
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 707
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:127.27,PWM:173
+DATA,125.00,127.27,173,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:129.87,PWM:172
+DATA,125.00,129.87,172,0.77,1.33,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.43,0.05
+Algorithm Time (us): 747
+>Setpoint:125.00,RPM:129.87,PWM:172
+DATA,125.00,129.87,172,0.77,1.26,0.05
+Algorithm Time (us): 753
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 698
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:132.47,PWM:172
+DATA,125.00,132.47,172,0.72,1.13,0.04
+Algorithm Time (us): 745
+>Setpoint:125.00,RPM:129.87,PWM:172
+DATA,125.00,129.87,172,0.79,1.46,0.05
+Algorithm Time (us): 735
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 734
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 735
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.78,1.36,0.05
+Algorithm Time (us): 740
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 693
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 709
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 737
+>Setpoint:125.00,RPM:124.68,PWM:172
+DATA,125.00,124.68,172,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:125.00,RPM:124.68,PWM:172
+DATA,125.00,124.68,172,0.80,1.50,0.05
+Algorithm Time (us): 746
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 705
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 700
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 711
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 702
+>Setpoint:125.00,RPM:122.08,PWM:174
+DATA,125.00,122.08,174,0.80,1.50,0.05
+Algorithm Time (us): 689
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 708
+>Setpoint:125.00,RPM:122.08,PWM:175
+DATA,125.00,122.08,175,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:125.00,RPM:124.68,PWM:175
+DATA,125.00,124.68,175,0.80,1.50,0.05
+Algorithm Time (us): 703
+>Setpoint:125.00,RPM:132.47,PWM:173
+DATA,125.00,132.47,173,0.71,1.18,0.04
+Algorithm Time (us): 757
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 754
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 710
+>Setpoint:125.00,RPM:124.68,PWM:174
+DATA,125.00,124.68,174,0.80,1.50,0.05
+Algorithm Time (us): 691
+>Setpoint:125.00,RPM:132.47,PWM:172
+DATA,125.00,132.47,172,0.71,1.18,0.04
+Algorithm Time (us): 753
+>Setpoint:125.00,RPM:132.47,PWM:171
+DATA,125.00,132.47,171,0.74,1.33,0.04
+Algorithm Time (us): 760
+>Setpoint:125.00,RPM:127.27,PWM:171
+DATA,125.00,127.27,171,0.80,1.50,0.05
+Algorithm Time (us): 716
+>Setpoint:125.00,RPM:122.08,PWM:172
+DATA,125.00,122.08,172,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:125.00,RPM:124.68,PWM:172
+DATA,125.00,124.68,172,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 695
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 714
+>Setpoint:125.00,RPM:127.27,PWM:172
+DATA,125.00,127.27,172,0.80,1.50,0.05
+Algorithm Time (us): 745
+>Setpoint:125.00,RPM:124.68,PWM:172
+DATA,125.00,124.68,172,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:125.00,RPM:124.68,PWM:172
+DATA,125.00,124.68,172,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:125.00,RPM:122.08,PWM:173
+DATA,125.00,122.08,173,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:125.00,RPM:124.68,PWM:173
+DATA,125.00,124.68,173,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:127.27,PWM:179
+DATA,175.00,127.27,179,0.80,1.44,0.05
+Algorithm Time (us): 746
+>Setpoint:175.00,RPM:124.68,PWM:186
+DATA,175.00,124.68,186,0.79,1.22,0.05
+Algorithm Time (us): 839
+>Setpoint:175.00,RPM:124.68,PWM:192
+DATA,175.00,124.68,192,0.79,1.16,0.05
+Algorithm Time (us): 838
+>Setpoint:175.00,RPM:135.06,PWM:193
+DATA,175.00,135.06,193,0.74,0.78,0.04
+Algorithm Time (us): 876
+>Setpoint:175.00,RPM:140.26,PWM:194
+DATA,175.00,140.26,194,0.77,0.59,0.04
+Algorithm Time (us): 861
+>Setpoint:175.00,RPM:140.26,PWM:195
+DATA,175.00,140.26,195,0.80,0.68,0.04
+Algorithm Time (us): 840
+>Setpoint:175.00,RPM:142.86,PWM:196
+DATA,175.00,142.86,196,0.80,0.72,0.05
+Algorithm Time (us): 830
+>Setpoint:175.00,RPM:142.86,PWM:198
+DATA,175.00,142.86,198,0.80,0.73,0.05
+Algorithm Time (us): 829
+>Setpoint:175.00,RPM:148.05,PWM:198
+DATA,175.00,148.05,198,0.80,0.74,0.05
+Algorithm Time (us): 822
+>Setpoint:175.00,RPM:148.05,PWM:200
+DATA,175.00,148.05,200,0.80,0.79,0.05
+Algorithm Time (us): 835
+>Setpoint:175.00,RPM:150.65,PWM:201
+DATA,175.00,150.65,201,0.80,0.84,0.05
+Algorithm Time (us): 836
+>Setpoint:175.00,RPM:148.05,PWM:203
+DATA,175.00,148.05,203,0.80,0.85,0.05
+Algorithm Time (us): 825
+>Setpoint:175.00,RPM:150.65,PWM:204
+DATA,175.00,150.65,204,0.80,0.85,0.05
+Algorithm Time (us): 833
+>Setpoint:175.00,RPM:155.84,PWM:205
+DATA,175.00,155.84,205,0.80,0.92,0.05
+Algorithm Time (us): 819
+>Setpoint:175.00,RPM:150.65,PWM:207
+DATA,175.00,150.65,207,0.80,0.93,0.05
+Algorithm Time (us): 820
+>Setpoint:175.00,RPM:155.84,PWM:208
+DATA,175.00,155.84,208,0.80,0.93,0.05
+Algorithm Time (us): 823
+>Setpoint:175.00,RPM:155.84,PWM:210
+DATA,175.00,155.84,210,0.80,0.99,0.05
+Algorithm Time (us): 829
+>Setpoint:175.00,RPM:158.44,PWM:211
+DATA,175.00,158.44,211,0.80,1.09,0.05
+Algorithm Time (us): 830
+>Setpoint:175.00,RPM:161.04,PWM:212
+DATA,175.00,161.04,212,0.80,1.10,0.05
+Algorithm Time (us): 824
+>Setpoint:175.00,RPM:161.04,PWM:213
+DATA,175.00,161.04,213,0.80,1.16,0.05
+Algorithm Time (us): 734
+>Setpoint:175.00,RPM:166.23,PWM:213
+DATA,175.00,166.23,213,0.80,1.23,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:163.64,PWM:214
+DATA,175.00,163.64,214,0.80,1.24,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:163.64,PWM:216
+DATA,175.00,163.64,216,0.80,1.24,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:168.83,PWM:216
+DATA,175.00,168.83,216,0.79,1.29,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:168.83,PWM:216
+DATA,175.00,168.83,216,0.79,1.39,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:168.83,PWM:217
+DATA,175.00,168.83,217,0.79,1.45,0.05
+Algorithm Time (us): 747
+>Setpoint:175.00,RPM:171.43,PWM:217
+DATA,175.00,171.43,217,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:175.00,RPM:174.03,PWM:217
+DATA,175.00,174.03,217,0.80,1.50,0.05
+Algorithm Time (us): 811
+>Setpoint:175.00,RPM:168.83,PWM:218
+DATA,175.00,168.83,218,0.79,1.42,0.05
+Algorithm Time (us): 776
+>Setpoint:175.00,RPM:171.43,PWM:218
+DATA,175.00,171.43,218,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 748
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 764
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 766
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.79,1.47,0.05
+Algorithm Time (us): 770
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 759
+>Setpoint:175.00,RPM:176.62,PWM:217
+DATA,175.00,176.62,217,0.80,1.50,0.05
+Algorithm Time (us): 742
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 748
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 739
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 744
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 748
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.79,1.47,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 745
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.73,1.29,0.04
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 747
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 737
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:181.82,PWM:219
+DATA,175.00,181.82,219,0.64,1.11,0.03
+Algorithm Time (us): 773
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.80,1.50,0.05
+Algorithm Time (us): 737
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 755
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 747
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 748
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 738
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 735
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 742
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 742
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 735
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:184.42,PWM:218
+DATA,175.00,184.42,218,0.52,0.87,0.03
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 764
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 755
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 754
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:184.42,PWM:218
+DATA,175.00,184.42,218,0.52,0.87,0.03
+Algorithm Time (us): 753
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 762
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 753
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 723
+>Setpoint:175.00,RPM:179.22,PWM:219
+DATA,175.00,179.22,219,0.79,1.47,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.73,1.29,0.04
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 745
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.79,1.47,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 746
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:181.82,PWM:217
+DATA,175.00,181.82,217,0.72,1.28,0.04
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 747
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 738
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 734
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.79,1.48,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 750
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 735
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 722
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:179.22,PWM:217
+DATA,175.00,179.22,217,0.78,1.45,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:176.62,PWM:217
+DATA,175.00,176.62,217,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:176.62,PWM:217
+DATA,175.00,176.62,217,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:168.83,PWM:219
+DATA,175.00,168.83,219,0.78,1.32,0.05
+Algorithm Time (us): 754
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.79,1.48,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 721
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 745
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.79,1.47,0.05
+Algorithm Time (us): 736
+>Setpoint:175.00,RPM:171.43,PWM:220
+DATA,175.00,171.43,220,0.80,1.50,0.05
+Algorithm Time (us): 746
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 735
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 742
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 755
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 749
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 758
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:217
+DATA,175.00,176.62,217,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 755
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:171.43,PWM:219
+DATA,175.00,171.43,219,0.80,1.50,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.79,1.48,0.05
+Algorithm Time (us): 733
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 752
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 740
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 719
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 742
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 741
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 730
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:174.03,PWM:220
+DATA,175.00,174.03,220,0.80,1.50,0.05
+Algorithm Time (us): 744
+>Setpoint:175.00,RPM:179.22,PWM:218
+DATA,175.00,179.22,218,0.79,1.47,0.05
+Algorithm Time (us): 744
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 746
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 753
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 727
+>Setpoint:175.00,RPM:176.62,PWM:219
+DATA,175.00,176.62,219,0.80,1.50,0.05
+Algorithm Time (us): 726
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 725
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 720
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 724
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 743
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 751
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 735
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 729
+>Setpoint:175.00,RPM:176.62,PWM:218
+DATA,175.00,176.62,218,0.80,1.50,0.05
+Algorithm Time (us): 728
+>Setpoint:175.00,RPM:174.03,PWM:219
+DATA,175.00,174.03,219,0.80,1.50,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:179.22,PWM:217
+DATA,175.00,179.22,217,0.78,1.45,0.05
+Algorithm Time (us): 731
+>Setpoint:175.00,RPM:174.03,PWM:218
+DATA,175.00,174.03,218,0.80,1.50,0.05
+Algorithm Time (us): 732
+>Setpoint:225.00,RPM:171.43,PWM:226
+DATA,225.00,171.43,226,0.80,1.42,0.05
+Algorithm Time (us): 747
+>Setpoint:225.00,RPM:192.21,PWM:226
+DATA,225.00,192.21,226,0.51,0.45,0.02
+Algorithm Time (us): 912
+>Setpoint:225.00,RPM:184.42,PWM:229
+DATA,225.00,184.42,229,0.74,0.69,0.04
+Algorithm Time (us): 906
+>Setpoint:225.00,RPM:189.61,PWM:230
+DATA,225.00,189.61,230,0.81,0.80,0.05
+Algorithm Time (us): 889
+>Setpoint:225.00,RPM:189.61,PWM:233
+DATA,225.00,189.61,233,0.82,0.83,0.05
+Algorithm Time (us): 903
+>Setpoint:225.00,RPM:200.00,PWM:232
+DATA,225.00,200.00,232,0.81,0.90,0.05
+Algorithm Time (us): 889
+>Setpoint:225.00,RPM:197.40,PWM:235
+DATA,225.00,197.40,235,0.81,0.92,0.05
+Algorithm Time (us): 885
+>Setpoint:225.00,RPM:202.60,PWM:235
+DATA,225.00,202.60,235,0.81,0.98,0.05
+Algorithm Time (us): 896
+>Setpoint:225.00,RPM:202.60,PWM:237
+DATA,225.00,202.60,237,0.81,0.99,0.05
+Algorithm Time (us): 887
+>Setpoint:225.00,RPM:205.19,PWM:238
+DATA,225.00,205.19,238,0.81,1.01,0.05
+Algorithm Time (us): 891
+>Setpoint:225.00,RPM:210.39,PWM:238
+DATA,225.00,210.39,238,0.80,1.09,0.05
+Algorithm Time (us): 851
+>Setpoint:225.00,RPM:207.79,PWM:240
+DATA,225.00,207.79,240,0.80,1.10,0.05
+Algorithm Time (us): 786
+>Setpoint:225.00,RPM:212.99,PWM:240
+DATA,225.00,212.99,240,0.80,1.17,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:212.99,PWM:241
+DATA,225.00,212.99,241,0.79,1.25,0.05
+Algorithm Time (us): 794
+>Setpoint:225.00,RPM:215.58,PWM:242
+DATA,225.00,215.58,242,0.79,1.32,0.05
+Algorithm Time (us): 792
+>Setpoint:225.00,RPM:218.18,PWM:242
+DATA,225.00,218.18,242,0.80,1.40,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:218.18,PWM:243
+DATA,225.00,218.18,243,0.80,1.46,0.05
+Algorithm Time (us): 789
+>Setpoint:225.00,RPM:218.18,PWM:244
+DATA,225.00,218.18,244,0.80,1.46,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:228.57,PWM:242
+DATA,225.00,228.57,242,0.75,1.42,0.04
+Algorithm Time (us): 837
+>Setpoint:225.00,RPM:223.38,PWM:243
+DATA,225.00,223.38,243,0.80,1.50,0.05
+Algorithm Time (us): 840
+>Setpoint:225.00,RPM:223.38,PWM:243
+DATA,225.00,223.38,243,0.80,1.50,0.05
+Algorithm Time (us): 804
+>Setpoint:225.00,RPM:220.78,PWM:244
+DATA,225.00,220.78,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 789
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 804
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 815
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 787
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 796
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 785
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.75,1.42,0.04
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.47,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 786
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 787
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 769
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 768
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:220.78,PWM:246
+DATA,225.00,220.78,246,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.76,1.43,0.04
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:231.17,PWM:243
+DATA,225.00,231.17,243,0.74,1.32,0.04
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:228.57,PWM:243
+DATA,225.00,228.57,243,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:220.78,PWM:244
+DATA,225.00,220.78,244,0.77,1.44,0.05
+Algorithm Time (us): 768
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 762
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.78,1.47,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 769
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.47,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 787
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:223.38,PWM:246
+DATA,225.00,223.38,246,0.80,1.50,0.05
+Algorithm Time (us): 765
+>Setpoint:225.00,RPM:233.77,PWM:243
+DATA,225.00,233.77,243,0.68,1.16,0.04
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.77,1.39,0.05
+Algorithm Time (us): 789
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 766
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 769
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.76,1.43,0.04
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.47,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 784
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 784
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:220.78,PWM:246
+DATA,225.00,220.78,246,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.76,1.43,0.04
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 768
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:228.57,PWM:243
+DATA,225.00,228.57,243,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 769
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:231.17,PWM:243
+DATA,225.00,231.17,243,0.74,1.32,0.04
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.76,1.41,0.04
+Algorithm Time (us): 790
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 784
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:231.17,PWM:243
+DATA,225.00,231.17,243,0.74,1.32,0.04
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:225.97,PWM:243
+DATA,225.00,225.97,243,0.80,1.50,0.05
+Algorithm Time (us): 786
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.49,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 791
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.80,1.49,0.05
+Algorithm Time (us): 786
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.76,1.43,0.04
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 769
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 769
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.77,1.44,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:228.57,PWM:243
+DATA,225.00,228.57,243,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.78,1.47,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 793
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 768
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:236.36,PWM:242
+DATA,225.00,236.36,242,0.70,1.20,0.04
+Algorithm Time (us): 791
+>Setpoint:225.00,RPM:220.78,PWM:244
+DATA,225.00,220.78,244,0.75,1.32,0.04
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:220.78,PWM:245
+DATA,225.00,220.78,245,0.80,1.50,0.05
+Algorithm Time (us): 764
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 772
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.47,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 784
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:228.57,PWM:243
+DATA,225.00,228.57,243,0.79,1.47,0.05
+Algorithm Time (us): 781
+>Setpoint:225.00,RPM:223.38,PWM:244
+DATA,225.00,223.38,244,0.80,1.50,0.05
+Algorithm Time (us): 787
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 766
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 767
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.48,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 776
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 787
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 771
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 777
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 780
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 774
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 768
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:225.97,PWM:245
+DATA,225.00,225.97,245,0.80,1.50,0.05
+Algorithm Time (us): 773
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 782
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.47,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 785
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 783
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.79,1.47,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 785
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 770
+>Setpoint:225.00,RPM:225.97,PWM:244
+DATA,225.00,225.97,244,0.80,1.50,0.05
+Algorithm Time (us): 778
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 779
+>Setpoint:225.00,RPM:223.38,PWM:245
+DATA,225.00,223.38,245,0.80,1.50,0.05
+Algorithm Time (us): 775
+>Setpoint:225.00,RPM:228.57,PWM:244
+DATA,225.00,228.57,244,0.78,1.46,0.05
+Algorithm Time (us): 770
+EXPERIMENT_COMPLETE
